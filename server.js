@@ -23,7 +23,7 @@ const elasticClient  = new Client({
     }
 });
 
-const uriCloud = 'mongodb+srv://amnraw4:dakSHAna4%404@crud.mic3rkp.mongodb.net/third?retryWrites=true&w=majority' ; //encode your password in pct encoding
+const uriCloud = 'mongodb+srv://yourUsername:yourPasswordcrud.mic3rkp.mongodb.net/third?retryWrites=true&w=majority' ; //encode your password in pct encoding
 
 const uriLocal = 'mongodb://localhost:27017/users';
 
