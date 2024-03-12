@@ -7,11 +7,14 @@ Tech stack I used:
 ### Elasticsearch (elasticsearch)
 ### RabbitMQ (amqplib)
 
-## start
-run 
-npm init  to initialize your project
-npm install   to install all required dependencies
+## Run 
+```bash
+  git clone https://github.com/amn-raw/CRUD-APIs.git
+  npm init //initialize your project
+  npm install   //to install all required dependencies
+```
 install kibana,elastic,redis,mongodb,rabbitMQ,nodemon
+
 -start services
 bin/kibana   to start kibana
 bin/elastic  to start elastic
